@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "百宝箱",
+  "author": "hu <595632239@163.com>",
+  "scripts": {
+    "build": "hummer build",
+    "dev": "hummer dev",
+    "debug": "npm run dev & hummer debug"
+  },
+  "dependencies": {
+    "@hummer/tenon-vue": "^1.7.0",
+    "@hummer/tenon-store": "^1.0.0"
+  },
+  "devDependencies": {}
+}
